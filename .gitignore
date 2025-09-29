@@ -1,0 +1,70 @@
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Environment & secrets
+.env
+.env.local
+.env.*
+*.secret
+secrets.yaml
+secrets.json
+
+# Docker
+*.pid
+docker-data/
+docker-volumes/
+
+# Kubernetes
+*.kube/
+.kubeconfig
+*.crt
+*.key
+
+# Helm
+charts/*/charts/
+charts/*/tmpcharts/
+*.tgz
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+terraform.tfvars
+
+# Node.js (if any CI/CD examples)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if any scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# CI/CD artifacts
+dist/
+build/
+coverage/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.iml

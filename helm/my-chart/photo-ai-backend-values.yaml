@@ -1,0 +1,10 @@
+replicaCount: 1
+
+image:
+  repository: photoai/backend
+  tag: "1.2.0"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 8000
