@@ -1,0 +1,9 @@
+[submodule "ci-cd"]
+	path = ci-cd
+	url = https://github.com/Sarthakkad05/ci-cd.git
+[submodule "kubernetes/k8s-manual-ingress"]
+	path = kubernetes/k8s-manual-ingress
+	url = https://github.com/Sarthakkad05/k8s-manual-ingress-.git
+[submodule "volume-networks"]
+	path = volume-networks
+	url = https://github.com/Sarthakkad05/volume-networks-.git
