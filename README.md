@@ -1,4 +1,4 @@
-# DevOps Learnings & Projects  
+# DevOps Learnings 
 
 This repository contains my hands-on DevOps assignments, experiments, and mini-projects. It covers **CI/CD, containers, orchestration, monitoring, logging, and GitOps** — everything I’ve been practicing to strengthen my DevOps skills.  
 
